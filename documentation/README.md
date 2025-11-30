@@ -47,7 +47,7 @@ This histogram shows how long articles take to receive their first update after 
 This plot compares update speeds across sections, revealing which desks revise stories quickly (e.g., breaking news) versus those that rarely update after publication (e.g., lifestyle or features).
 10. ![Title Length](../analysis/metadata_analysis/title_length_by_section.png)
 This chart visualizes differences in average title length by section, uncovering stylistic tendencies between fast-news desks and long-form features.
-11. ![Velocity Anomalies](../analysis/velocity_analysis/velocity_anomalies.png)
+11. ![Velocity Anomalies](../analysis/velocity_analysis/anomalies.png)
 This anomaly chart highlights hours where article volume significantly deviated from the norm, often aligning with breaking events or major global news.
 
 ## GitHub Repository
