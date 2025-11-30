@@ -1,0 +1,9 @@
+requests
+pandas
+duckdb
+prefect
+python-dotenv
+matplotlib
+seaborn
+numpy
+pydantic

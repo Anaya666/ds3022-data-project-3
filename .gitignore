@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data (do NOT upload raw logs)
+data/*.json
+data/*.parquet
+data/*.csv
+data/*.db
+
+# DuckDB database
+*.duckdb
+
+# Virtual envs
+venv/
+.env
