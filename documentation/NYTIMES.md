@@ -1,4 +1,4 @@
-# Team X
+# Team Anaya
 
 ## Team members
 Anaya Nath
@@ -51,6 +51,6 @@ This chart visualizes differences in average title length by section, uncovering
 This anomaly chart highlights hours where article volume significantly deviated from the norm, often aligning with breaking events or major global news.
 
 ## GitHub Repository
-https://github.com/Anaya666/ds3022-data-project-3
+https://github.com/Anaya666/dp3-repository-all-anaya.git
 
 
