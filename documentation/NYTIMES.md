@@ -27,27 +27,27 @@ Across more than a thousand NYT articles, several clear behavioral patterns emer
 
 Include at least one compelling plot or visualization of your work. Add images in your subdirectory and then display them using markdown in your README.md file.
 
-1. ![Overall Publishing Velocity](../analysis/velocity_analysis/overall_velocity.png)
+1. ![Overall Velocity](analysis/velocity_analysis/overall_velocity.png)
 This plot shows the number of articles published per hour across all sections, revealing clear peaks where newsroom activity surges and quieter periods where publishing slows.
-2. ![Section Velocity](../analysis/velocity_analysis/section_velocity.png)
+2. ![Section Velocity](analysis/velocity_analysis/section_velocity.png)
 This visualization compares hourly publishing patterns for the top six busiest sections, highlighting how different desks exhibit distinct temporal rhythms and react differently to news cycles.
-3. ![Top Sections](../analysis/metadata_analysis/top_sections.png)
+3. ![Top Sections](analysis/metadata_analysis/top_sections.png)
 This bar chart identifies which NYTimes sections produce the highest volume of articles, demonstrating where the newsroom allocates the most editorial resources.
-4.![Descriptive Facets](../analysis/metadata_analysis/facet_des_facet.png)
+4.![Descriptive Facets](analysis/metadata_analysis/facet_des_facet.png)
 This plot shows the most common descriptive topics attached to articles, illustrating the recurring themes and issues that dominate NYT coverage.
-5. ![Geographic Facets](../analysis/metadata_analysis/facet_geo_facet.png)
+5. ![Geographic Facets](analysis/metadata_analysis/facet_geo_facet.png)
 This chart highlights the most frequently referenced geographic locations, revealing where global and domestic attention is concentrated in recent news.
-6.![Organizational Facets](../analysis/metadata_analysis/facet_org_facet.png)
+6.![Organizational Facets](analysis/metadata_analysis/facet_org_facet.png)
 This bar chart lists the organizations most often mentioned in articles, indicating which institutions are central to ongoing news stories.
-7. ![Person Facets](../analysis/metadata_analysis/facet_per_facet.png)
+7. ![Person Facets](analysis/metadata_analysis/facet_per_facet.png)
 This visualization displays the most frequently mentioned public figures across the dataset, offering insight into political, cultural, or international actors heavily covered at the moment.
-8. ![Update Lag Histogram](../analysis/metadata_analysis/update_lag_hist.png)
+8. ![Update Lag Histogram](analysis/metadata_analysis/update_lag_hist.png)
 This histogram shows how long articles take to receive their first update after initial publication, capturing patterns in editorial revisions across all sections.
-9. ![Update Lag by Section](../analysis/metadata_analysis/update_lag_by_section.png)
+9. ![Update Lag by Section](nalysis/metadata_analysis/update_lag_by_section.png)
 This plot compares update speeds across sections, revealing which desks revise stories quickly (e.g., breaking news) versus those that rarely update after publication (e.g., lifestyle or features).
-10. ![Title Length](../analysis/metadata_analysis/title_length_by_section.png)
+10. ![Title Length](analysis/metadata_analysis/title_length_by_section.png)
 This chart visualizes differences in average title length by section, uncovering stylistic tendencies between fast-news desks and long-form features.
-11. ![Velocity Anomalies](../analysis/velocity_analysis/anomalies.png)
+11. ![Velocity Anomalies](analysis/velocity_analysis/anomalies.png)
 This anomaly chart highlights hours where article volume significantly deviated from the norm, often aligning with breaking events or major global news.
 
 ## GitHub Repository
